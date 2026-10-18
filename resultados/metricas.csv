@@ -1,0 +1,8 @@
+﻿imagen,region,ancho_px,alto_px,luminancia_media,contraste_desv_est,percentil_5,percentil_95,pixeles_oscuros_pct,varianza_laplaciano,bordes_canny_pct
+referencia,completa,1200,1600,147.48,58.87,51.0,218.0,4.59,1143.79,2.7
+luz_desigual,completa,1200,1600,83.79,56.58,14.0,188.0,37.13,1865.0,2.63
+sombra_fuerte,completa,1200,1600,99.98,67.09,12.0,223.0,29.35,142.14,0.34
+movimiento,completa,900,1600,140.6,58.52,54.0,218.0,3.55,117.74,0.04
+sombra_tratada,completa,1200,1600,105.9,63.37,16.0,215.0,24.59,419.22,0.84
+sombra_fuerte,rostro,650,600,96.16,69.43,8.0,210.0,36.66,166.62,0.54
+sombra_tratada,rostro,650,600,100.52,69.01,12.0,213.0,33.48,372.69,0.98

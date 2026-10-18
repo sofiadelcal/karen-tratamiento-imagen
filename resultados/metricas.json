@@ -1,0 +1,101 @@
+{
+  "region_rostro_xyxy": [
+    300,
+    300,
+    950,
+    900
+  ],
+  "filas": [
+    {
+      "imagen": "referencia",
+      "region": "completa",
+      "ancho_px": 1200,
+      "alto_px": 1600,
+      "luminancia_media": 147.48,
+      "contraste_desv_est": 58.87,
+      "percentil_5": 51.0,
+      "percentil_95": 218.0,
+      "pixeles_oscuros_pct": 4.59,
+      "varianza_laplaciano": 1143.79,
+      "bordes_canny_pct": 2.7
+    },
+    {
+      "imagen": "luz_desigual",
+      "region": "completa",
+      "ancho_px": 1200,
+      "alto_px": 1600,
+      "luminancia_media": 83.79,
+      "contraste_desv_est": 56.58,
+      "percentil_5": 14.0,
+      "percentil_95": 188.0,
+      "pixeles_oscuros_pct": 37.13,
+      "varianza_laplaciano": 1865.0,
+      "bordes_canny_pct": 2.63
+    },
+    {
+      "imagen": "sombra_fuerte",
+      "region": "completa",
+      "ancho_px": 1200,
+      "alto_px": 1600,
+      "luminancia_media": 99.98,
+      "contraste_desv_est": 67.09,
+      "percentil_5": 12.0,
+      "percentil_95": 223.0,
+      "pixeles_oscuros_pct": 29.35,
+      "varianza_laplaciano": 142.14,
+      "bordes_canny_pct": 0.34
+    },
+    {
+      "imagen": "movimiento",
+      "region": "completa",
+      "ancho_px": 900,
+      "alto_px": 1600,
+      "luminancia_media": 140.6,
+      "contraste_desv_est": 58.52,
+      "percentil_5": 54.0,
+      "percentil_95": 218.0,
+      "pixeles_oscuros_pct": 3.55,
+      "varianza_laplaciano": 117.74,
+      "bordes_canny_pct": 0.04
+    },
+    {
+      "imagen": "sombra_tratada",
+      "region": "completa",
+      "ancho_px": 1200,
+      "alto_px": 1600,
+      "luminancia_media": 105.9,
+      "contraste_desv_est": 63.37,
+      "percentil_5": 16.0,
+      "percentil_95": 215.0,
+      "pixeles_oscuros_pct": 24.59,
+      "varianza_laplaciano": 419.22,
+      "bordes_canny_pct": 0.84
+    },
+    {
+      "imagen": "sombra_fuerte",
+      "region": "rostro",
+      "ancho_px": 650,
+      "alto_px": 600,
+      "luminancia_media": 96.16,
+      "contraste_desv_est": 69.43,
+      "percentil_5": 8.0,
+      "percentil_95": 210.0,
+      "pixeles_oscuros_pct": 36.66,
+      "varianza_laplaciano": 166.62,
+      "bordes_canny_pct": 0.54
+    },
+    {
+      "imagen": "sombra_tratada",
+      "region": "rostro",
+      "ancho_px": 650,
+      "alto_px": 600,
+      "luminancia_media": 100.52,
+      "contraste_desv_est": 69.01,
+      "percentil_5": 12.0,
+      "percentil_95": 213.0,
+      "pixeles_oscuros_pct": 33.48,
+      "varianza_laplaciano": 372.69,
+      "bordes_canny_pct": 0.98
+    }
+  ]
+}
